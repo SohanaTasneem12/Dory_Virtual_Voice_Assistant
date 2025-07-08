@@ -8,7 +8,7 @@ This was my **first-ever Python project**, created during my 4th semester as par
 ## 👩‍💻 About the Project
 
 The idea sparked when one of my teammates suggested building a **virtual assistant** that listens and responds to user commands.  
-I started exploring resources, primarily learning from a [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry) tutorial, and gradually built our own custom assistant: **Dory** 🐠.  
+I started exploring resources, primarily learning from a [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry) tutorial, and then I went beyond the initial idea and customized it using a mix of online resources, blogs, and creative thinking. And gradually built our own custom assistant: **Dory** 🐠.  
 The entire project was developed using **PyCharm**, and the final assistant worked through both a **voice interface** and a **simple GUI** made with `Tkinter`.
 
 ---
