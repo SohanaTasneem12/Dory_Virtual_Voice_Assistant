@@ -49,7 +49,7 @@ A minimal Tkinter interface was created with:
 
 Here’s a snapshot of the Tkinter GUI interface for Dory:
 
-![Dory GUI Preview](gui_screenshot.png)
+![Dory GUI Preview](CODES/Artboard Image.png)
 
 ## ✨ Personal Note
 
