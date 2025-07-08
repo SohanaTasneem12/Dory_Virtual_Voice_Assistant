@@ -41,12 +41,6 @@ The entire project was developed using **PyCharm**, and the final assistant work
 ---
 
 ## 🖥️ GUI Preview
-
-A minimal Tkinter interface was created with:
-- 🎨 Background image
-- 🔘 “Start” and “About” buttons
-- 📜 Credits window with team member names
-
 Here’s a snapshot of the Tkinter GUI interface for Dory:
 
 ![Dory GUI Preview](CODES/Artboard%20Image.png)
